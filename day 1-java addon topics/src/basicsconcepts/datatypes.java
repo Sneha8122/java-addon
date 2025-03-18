@@ -4,6 +4,11 @@ public class datatypes {
 
 	public static void main(String[] args) {
 		
+		//non primitive datatype
+		String name= "ABC";
+		
+		System.out.println(" ");
+		System.out.println("string representing:" + name);
 		
 		
 		
@@ -41,11 +46,6 @@ System.out.println("cha reprenting:" +initial);
 
 
 */
-		//non primitive datatype
-				string name= "ABC";
-				
-				System.out.println(" ");
-				System.out.println("string representing:" + name);
-				
+		
 	}
 	}
